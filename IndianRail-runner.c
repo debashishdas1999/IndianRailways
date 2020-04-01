@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <pthread.h>
 
-#include "IndianRailway.h"
+#include "IndianRail.h"
 
 // Count of passenger threads that have completed (i.e. station_wait_for_train
 // has returned) and are awaiting a station_on_board() invocation.
