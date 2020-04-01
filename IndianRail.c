@@ -1,5 +1,5 @@
 #include <pthread.h>
-#include "IndianRailway.h"
+#include "IndianRail.h"
 
 
 /**
